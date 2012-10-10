@@ -1,0 +1,10 @@
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Model\Bin\Debug\ExemploMVVM.Model.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Model\Bin\Debug\ExemploMVVM.Model.pdb
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Model\obj\Debug\ExemploMVVM.Model.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Model\obj\Debug\ExemploMVVM.Model.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Model\Bin\Debug\ExemploMVVM.Model.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Model\Bin\Debug\ExemploMVVM.Model.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Model\obj\Debug\ExemploMVVM.Model.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Model\obj\Debug\ExemploMVVM.Model.pdb

@@ -1,0 +1,324 @@
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UI.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UI.pdb
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\AppManifest.xaml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UI.xap
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UITestPage.html
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\obj\Debug\View\View.g.i.cs
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ExemploMVVM.UI.g.resources
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ExemploMVVM.UI.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ExemploMVVM.UI.pdb
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\obj\Debug\XapCacheFile.xml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.Model.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Data.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.Model.pdb
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Data.xml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UI.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UI.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\AppManifest.xaml
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UI.xap
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.UITestPage.html
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.Model.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Data.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ExemploMVVM.Model.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Data.xml
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\System.Windows.Controls.xml
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\obj\Debug\View\View.g.i.cs
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ExemploMVVM.UI.g.resources
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ExemploMVVM.UI.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\obj\Debug\ExemploMVVM.UI.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.UI\obj\Debug\XapCacheFile.xml

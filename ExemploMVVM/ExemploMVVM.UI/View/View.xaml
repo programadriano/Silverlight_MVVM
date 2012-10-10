@@ -1,0 +1,37 @@
+﻿<UserControl xmlns:sdk="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data"  x:Class="ExemploMVVM.UI.View.View"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModel="clr-namespace:ExemploMVVM.UI.ViewModel"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+    <UserControl.Resources>
+        <viewModel:ViewModel x:Name="myViewModel"/>
+    </UserControl.Resources>
+    
+    <Grid x:Name="LayoutRoot" Background="White" DataContext="{StaticResource myViewModel}" Width="600" HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <sdk:DataGrid x:Name="myGrid" ItemsSource="{Binding People}" Height="400" HorizontalAlignment="Stretch" Margin="5"/>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="5">
+            <TextBlock Text="Nome: "/> 
+            <TextBox Text="{Binding Name, Mode=TwoWay}" Width="300" Height="25"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="5">
+            <TextBlock Text="Email: "/>
+            <TextBox Text="{Binding Email, Mode=TwoWay}" Width="300" Height="25"/>
+        </StackPanel>
+
+        <Button Content="Adicionar" Command="{Binding AddCommand}" Grid.Row="3" Width="100" Height="30" Margin="5"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,10 @@
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Web\bin\ExemploMVVM.Web.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Web\bin\ExemploMVVM.Web.pdb
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Web\obj\Debug\ExemploMVVM.Web.dll
+C:\Users\Daniel.Tomasini\Daniel CT\Silverlight_Projects\ExemploMVVM\ExemploMVVM.Web\obj\Debug\ExemploMVVM.Web.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Web\bin\ExemploMVVM.Web.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Web\bin\ExemploMVVM.Web.pdb
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Web\obj\Debug\ExemploMVVM.Web.dll
+C:\Users\thiagodasilva\Documents\Visual Studio 2010\Poc\ExemploMVVM\ExemploMVVM\ExemploMVVM.Web\obj\Debug\ExemploMVVM.Web.pdb
